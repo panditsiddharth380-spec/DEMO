@@ -1,2 +1,4 @@
-# DEMO
-This is my first demo repository..... &lt;br> Author-Siddharth Pandit
+# DEMO.....
+This is my first demo repositor....
+<br>
+Author-Siddharth Pandit
